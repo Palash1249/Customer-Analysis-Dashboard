@@ -4,7 +4,7 @@
 ## Internship Context
 
 ### **Fennark (DevCraft) Virtual Internship Program — Data Analysis Track**
-This project is Project 4 of the internship: Customer Analysis. The objective is to analyze customer purchases and identify the most valuable customers based on their total spending and purchasing behavior.
+This project is Task 2 of the internship: Customer Analysis. The objective is to analyze customer purchases and identify the most valuable customers based on their total spending and purchasing behavior.
 
 ## Objective
 Analyze customer purchases and identify the most valuable customers based on total spending, number of orders, items purchased, and average order value.
