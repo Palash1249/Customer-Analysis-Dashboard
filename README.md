@@ -4,7 +4,7 @@
 ## Internship Context
 
 **Fennark (DevCraft) Virtual Internship Program — Data Analysis Track**
-This project is **Task 1** of the internship: analyze the Superstore sales CSV using Pandas to compute total revenue, identify top products, and visualize results with bar charts.
+This project is **Task 2** of the internship: The objective is to analyze the Superstore sales CSV using Pandas to compute total revenue, identify top-performing products, and visualize the results using charts.
 
 ## Objective
 Analyze customer purchases and find the most valuable customers.
