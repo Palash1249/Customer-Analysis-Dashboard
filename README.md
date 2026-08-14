@@ -27,6 +27,3 @@ Python, Pandas, NumPy, Streamlit, Plotly
 pip install -r requirements.txt
 streamlit run app.py
 ```
-
-## Submission
-Upload this folder to GitHub and submit the repository URL.
