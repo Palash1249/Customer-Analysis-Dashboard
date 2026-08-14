@@ -7,7 +7,7 @@
 This project is Task 2 of the internship. The objective is to analyze the Superstore sales CSV using Pandas to compute total revenue, identify top-performing products, and visualize the results using charts.
 
 ## Objective
-Analyze customer purchases and find the most valuable customers.
+The main goal of this project is to analyze sales data and extract useful business insights.
 
 ## Features
 - Revenue, order, customer and average-order-value KPIs
